@@ -1,96 +1,80 @@
-# Hi! I'm Kaushik Chaturvedula
+# Hi! I'm Kaushik Chaturvedula 🌍💻
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kaushikchaturvedula)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/NeuralRevenant)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat-square&logo=leetcode)](https://leetcode.com/u/ArrayArtisan)
-[![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:kaushikchaturvedula@gmail.com)
+<div>
+  <a href="https://linkedin.com/in/kaushikchaturvedula">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/NeuralRevenant">
+    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://leetcode.com/u/ArrayArtisan">
+    <img src="https://img.shields.io/badge/-LeetCode-orange?style=for-the-badge&logo=leetcode" alt="LeetCode"/>
+  </a>
+  <a href="mailto:kaushikchaturvedula@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
 
-I'm a passionate Software & AI/ML Engineer with over a year of industry experience building high-performance, scalable software solutions, specializing in high-performance computing. I am proficient in designing and developing low-latency backend systems and asynchronous architectures using C++, Python, and Java with a solid foundation in operating systems, systems programming, multi-threaded programming, socket programming, backend optimization, and full-stack development. Skilled in AI/ML, deep learning, Natural Language Processing, Computer Vision, distributed systems, cloud computing, object-oriented programming, algorithms, system design, and mathematics. As a Research Assistant at Purdue, I am actively contributing to high-performance computational simulations, handling large datasets, and implementing parallel processing techniques. Demonstrated proficiency in designing, developing, and implementing innovative engineering solutions. Experienced in collaborative environments and adept at presenting complex technical concepts. I'm constantly seeking new challenges and opportunities to learn and grow as a developer.
+---
 
-## Skills
+## 🌟 About Me
+I'm a **passionate Software & AI/ML Engineer** with over a year of experience building **high-performance, scalable software solutions**, with a focus on **high-performance computing**. I specialize in **designing and developing low-latency backend systems** and **asynchronous architectures** using **C++, Python, and Java**, with a solid foundation in **operating systems**, **systems programming**, **multi-threaded programming**, **socket programming**, and **backend optimization**. 
+
+My skill set extends to **full-stack development**, **AI/ML**, **deep learning**, **Natural Language Processing**, **Computer Vision**, **distributed systems**, and **cloud computing**. Currently, as a **Research Assistant at Purdue**, I’m actively contributing to **high-performance computational simulations**, managing **large datasets**, and implementing **parallel processing techniques**. I thrive in collaborative environments and I’m always looking for new challenges to push the boundaries of technology. Let's connect and **create the future together!** 🚀
+
+---
+
+## 🛠 Skills
 
 ### AI/ML
 - Natural Language Processing
 - Computer Vision
 - Machine Learning
-- Deep Learning
-- Pytorch
-- Tensorflow
+- Deep Learning (PyTorch, TensorFlow)
 
-### Low-Level C Development
+### Systems Engineering & Low-Level Development
 - Linux System Programming
 - Memory Management
 - File I/O
 - Socket Programming
-- Computer Network Programming
+- Network Protocols and Communication
 
 ### High-Performance Computing
-- Multi-processing
-- Multi-threading
-- Virtual Threads
-- Coroutines
+- Multi-Processing & Multi-Threading
+- Virtual Threads & Coroutines
 - Asynchronous Programming
 - GPU Programming (CUDA)
-- MPI
-- OpenMP
+- MPI & OpenMP
 
-### Programming Languages + Database Querying Languages
-- C
-- C++
-- Java
-- Python
-- C#
-- Javascript
-- SQL
-- N1QL
+### Programming Languages
+- C, C++, C#
+- Python, Java
+- JavaScript
+- SQL, N1QL
 
 ### Frameworks
-- Spring Boot
-- Spring Webflux
-- Vert.x
-- Node.js
-- Express.js
-- Django
-- FastAPI
-- React
-- Angular
+- Spring Boot, Spring Webflux, Vert.x
+- Node.js, Express.js
+- Django, FastAPI
+- React, Angular
 
-### Tools
-- Git
-- JDBC
-- Linux
-- Docker
-- Postman
-- Redis
-- Apache Kafka
-- JMeter
-- RabbitMQ
+### Tools & Technologies
+- Git, Docker
+- Redis, Apache Kafka, RabbitMQ
+- JMeter, Postman, JDBC
+- Cloud: AWS, Azure, Heroku
 
-### Database Systems
-- MySQL
-- MariaDB
-- PostgreSQL
-- MongoDB
-- Couchbase
-- Firebase
+### Databases
+- MySQL, MariaDB, PostgreSQL
+- MongoDB, Couchbase, Firebase
 
 ### Platforms
-- AWS
-- Azure
-- Heroku
-- GitHub
-- BitBucket
-- Jira
-- Leetcode
-- Kaggle
-- Hugging Face
-- GeeksForGeeks
+- GitHub, BitBucket, Jira, LeetCode, Kaggle, Hugging Face, GeeksForGeeks
 
 ### Operating Systems
-- Linux
-- MacOS
-- Windows
-- Operating Systems Design and Internals
+- Linux, MacOS, Windows
+
+---
 
 ## 🎓 Education
 
@@ -105,52 +89,51 @@ I'm a passionate Software & AI/ML Engineer with over a year of industry experien
 **National Institute of Technology Warangal, India**  
 📅 *August 2018 – May 2022*  
 🏆 **Achievement:**  
-Ranked **#9227** out of 1.2 million in JEE Mains (2018)  
+Ranked **#9227** out of 1.2 million in JEE Mains (2018)
 
 ---
 
-> "Stay curious and keep exploring — every challenge is an opportunity to grow."
+## 💼 Work Experience
 
----
-
-## Work Experience
 ### Teaching Assistant & Research Assistant 
-**Purdue University Fort Wayne**
-*Programming Language Design Course & CosmoSim (Sept 2024 - Present)*
+**Purdue University Fort Wayne**  
+*Programming Language Design & Cosmological Simulations (Sept 2024 - Present)*
 - Assisting professors in delivering course material, grading assignments, and providing academic support to students. Enhancing the overall educational experience through various teaching-related tasks.
-- Contributing to research in high-performance computational cosmological simulations (cosmoSim) focused on modeling X-ray emissions from the intergalactic medium (WHIM). This project addresses the missing baryonic mass problem, using the latest cosmological simulation datasets.
-- Assisting in developing Python code to optimize X-ray emission models for large-scale cosmological simulations, which are anticipated to require significant improvements in data handling and parallel processing to handle datasets exceeding 300 TB.
+- Contributing to research in high-performance computational cosmological simulations (cosmoSim) focused on **cosmological research** and modeling X-ray emissions from the intergalactic medium (WHIM).
+- Assisting in developing **Python code** to optimize X-ray emission models for large-scale cosmological simulations, which are anticipated to require significant improvements in data handling and **parallel processing** to handle datasets exceeding **300 TB**.
 - Collaborating on modifying simulation algorithms to partition computational workloads, enabling concurrent execution across multiple processors to minimize computational time. This interdisciplinary work aims to improve the accuracy and efficiency of WHIM observations using advanced computational resources.
 
-### Associate Software Engineer
+### Associate Software Engineer  
 **Wibmo (a PayU company)**  
-*Bengaluru, Karnataka, India (Jul 2022 - Apr 2023)*
+*Jul 2022 - Apr 2023*  
 - Developed and optimized backend services for a Risk-based Authentication Engine, enhancing fraud detection and prevention, including identifying money laundering and BIN attacks, ensuring secure transaction processing.
 - Designed and implemented a microservices architecture to handle high-traffic loads, improving scalability, system reliability, and performance under increased user demand.
 - Built and maintained real-time data pipelines and implemented asynchronous processing of data using RabbitMQ and Apache Kafka, optimizing data throughput and reducing latency by 20%.
 - Enhanced overall software performance through optimization techniques, achieving a 30% reduction in processing time for critical transactions, leading to improved user experience and operational efficiency.
 - Utilized a diverse tech stack including Spring Webflux, Spring Boot, MySQL, Couchbase, Redis, Node.js, Docker, Linux, and AWS, delivering comprehensive solutions across multiple technology layers.
 
-### Intern, Full Stack Developer
+### Intern, Full Stack Developer  
 **Freecharge**  
-*Remote Internship (May 2021 - Jul 2021)*
+*Remote Internship (May 2021 - Jul 2021)*  
 - Revamped the existing microservices architecture, applying optimization techniques that reduced response times by 25% and enhanced overall system efficiency and scalability to better handle increasing user demands.
 - Spearheaded memory caching initiatives, significantly boosting application performance by reducing database load and improving response times by 35%.
 - Implemented load balancing strategies, optimizing resource allocation, and ensuring the system's reliability and availability under varying traffic conditions.
 
-### Intern, Front-end Developer
+### Intern, Front-End Developer  
 **Ravgins**  
-*Remote Internship (Jun 2020 - Aug 2020)*
+*Remote Internship (Jun 2020 - Aug 2020)*  
 - Developed and launched user-centric web applications and a mobile app using Angular, Angular Material, and Ionic frameworks, enhancing user experience and engagement.
 - Constructed robust, full-stack platforms with a focus on responsive design and seamless user interaction, contributing innovative features that improved the overall functionality and user satisfaction.
 - Collaborated with a cross-functional team to deliver projects on time, demonstrating strong teamwork and problem-solving skills, and ensuring alignment with business objectives.
 
-## Personal Projects
+---
+
+## 🚀 Personal Projects
 
 ### SwiftNet
 A C++ networking library optimized for high performance and low latency, designed to deliver rapid responses for scalable data access.
 - Employs advanced techniques like request pipelining, io_uring, kqueue-based event loops, and asynchronous I/O for efficient connection handling.
-- Integrates virtual thread task offloading to maximize CPU utilization and handle high-throughput workloads.
+- Integrates modern C++ coroutines based virtual thread task offloading to maximize CPU utilization and handle high-throughput workloads.
 - Designed for scalable, low-latency, and reliable large-scale server applications.
 - **Technologies**: Modern C++, Linux System Programming, Socket Programming, High-Performance Computing (via Multi-Threading & Multi-Core Optimization), Asynchronous I/O
 
@@ -180,6 +163,12 @@ A high-performance in-memory key-value store focused on delivering low-latency r
 - A music player website with user authentication, audio/video upload and download options, search filters, personalized playlist options, and song repetition mode.
 - **Technologies**: EJS, NodeJs, MongoDB, MySQL
 
-## Let's Connect!
+---
+
+## 🌐 Let's Connect
 
 Always eager to team up on projects that explore new horizons and drive innovation. Let’s connect and create something extraordinary together. Reach out anytime!
+
+---
+
+> **"Stay curious and keep exploring — every challenge is an opportunity to grow."**
