@@ -5,7 +5,7 @@
 [![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat-square&logo=leetcode)](https://leetcode.com/u/ArrayArtisan)
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:kaushikchaturvedula@gmail.com)
 
-I'm a passionate Software & AI/ML Engineer with over a year of industry experience, specializing in software development, high-performance computing, computer networking, socket programming, and AI/ML. Demonstrated proficiency in designing, developing, and implementing innovative engineering solutions. Experienced in collaborative environments and adept at presenting complex technical concepts. I'm constantly seeking new challenges and opportunities to learn and grow as a developer.
+I'm a passionate Software & AI/ML Engineer with over a year of industry experience building high-performance, scalable software solutions, specializing in high-performance computing. I am proficient in designing and developing low-latency backend systems and asynchronous architectures using C++, Python, and Java with a solid foundation in operating systems, systems programming, multi-threaded programming, socket programming, backend optimization, and full-stack development. Skilled in AI/ML, deep learning, Natural Language Processing, Computer Vision, distributed systems, cloud computing, object-oriented programming, algorithms, system design, and mathematics. As a Research Assistant at Purdue, I am actively contributing to high-performance computational simulations, handling large datasets, and implementing parallel processing techniques. Demonstrated proficiency in designing, developing, and implementing innovative engineering solutions. Experienced in collaborative environments and adept at presenting complex technical concepts. I'm constantly seeking new challenges and opportunities to learn and grow as a developer.
 
 ## Skills
 
@@ -14,14 +14,15 @@ I'm a passionate Software & AI/ML Engineer with over a year of industry experien
 - Computer Vision
 - Machine Learning
 - Deep Learning
+- Pytorch
+- Tensorflow
 
 ### Low-Level C Development
 - Linux System Programming
 - Memory Management
-- Bitwise Operations
 - File I/O
 - Socket Programming
-- Advanced Computer Networking
+- Computer Network Programming
 
 ### High-Performance Computing
 - Multi-processing
@@ -30,29 +31,33 @@ I'm a passionate Software & AI/ML Engineer with over a year of industry experien
 - Coroutines
 - Asynchronous Programming
 - GPU Programming (CUDA)
+- MPI
+- OpenMP
 
 ### Programming Languages + Database Querying Languages
 - C
 - C++
 - Java
 - Python
+- C#
 - Javascript
 - SQL
 - N1QL
-- Mongoose + MongoDB Query Language
 
 ### Frameworks
 - Spring Boot
 - Spring Webflux
+- Vert.x
 - Node.js
 - Express.js
 - Django
+- FastAPI
 - React
 - Angular
-- CUDA
 
 ### Tools
 - Git
+- JDBC
 - Linux
 - Docker
 - Postman
@@ -60,11 +65,11 @@ I'm a passionate Software & AI/ML Engineer with over a year of industry experien
 - Apache Kafka
 - JMeter
 - RabbitMQ
-- TensorFlow
-- PyTorch
 
-### Databases
+### Database Systems
 - MySQL
+- MariaDB
+- PostgreSQL
 - MongoDB
 - Couchbase
 - Firebase
@@ -83,31 +88,48 @@ I'm a passionate Software & AI/ML Engineer with over a year of industry experien
 
 ### Operating Systems
 - Linux
-- macOS
+- MacOS
 - Windows
+- Operating Systems Design and Internals
 
-## Education
+## 🎓 Education
 
+### Master of Science in Computer Science  
 **Purdue University, Fort Wayne, Indiana**  
-Master of Science in Computer Science (4.0/4 CGPA)  
-*Jan 2024 - May 2025 Expected*
+📅 *January 2024 – Expected May 2025*  
+📈 **GPA:** 4.0/4.0  
 
-**National Institute of Technology, Warangal, India**  
-Bachelor of Technology in Mechanical Engineering  
-*Aug 2018 - May 2022*
+---
+
+### Bachelor of Technology in Mechanical Engineering  
+**National Institute of Technology Warangal, India**  
+📅 *August 2018 – May 2022*  
+🏆 **Achievement:**  
+Ranked **#9227** out of 1.2 million in JEE Mains (2018)  
+
+---
+
+> "Stay curious and keep exploring — every challenge is an opportunity to grow."
+
+---
 
 ## Work Experience
+### Teaching Assistant & Research Assistant 
+**Purdue University Fort Wayne**
+*Programming Language Design Course & CosmoSim (Sept 2024 - Present)*
+- Assisting professors in delivering course material, grading assignments, and providing academic support to students. Enhancing the overall educational experience through various teaching-related tasks.
+- Contributing to research in high-performance computational cosmological simulations (cosmoSim) focused on modeling X-ray emissions from the intergalactic medium (WHIM). This project addresses the missing baryonic mass problem, using the latest cosmological simulation datasets.
+- Assisting in developing Python code to optimize X-ray emission models for large-scale cosmological simulations, which are anticipated to require significant improvements in data handling and parallel processing to handle datasets exceeding 300 TB.
+- Collaborating on modifying simulation algorithms to partition computational workloads, enabling concurrent execution across multiple processors to minimize computational time. This interdisciplinary work aims to improve the accuracy and efficiency of WHIM observations using advanced computational resources.
 
 ### Associate Software Engineer
-**Wibmo - PayU**  
+**Wibmo (a PayU company)**  
 *Bengaluru, Karnataka, India (Jul 2022 - Apr 2023)*
-- Developed and optimized backend services for a Risk-based Authentication Engine, enhancing fraud detection and prevention capabilities. This included preventing fraudulent transactions and identifying malicious activities such as money laundering and BIN attacks, ensuring secure transaction processing.
-- Designed and implemented a microservices architecture to support high-traffic loads, ensuring system scalability and reliability, which improved the system's ability to handle increased user demand without compromising performance.
-- Built and maintained real-time data pipelines using RabbitMQ and Apache Kafka, significantly optimizing data processing throughput and reducing latency by 20%, which improved the overall system efficiency and responsiveness.
-- Implemented asynchronous processing of data, leveraging messaging queues like RabbitMQ and Apache Kafka, which allowed for efficient handling of concurrent processes and minimized processing delays.
-- Played a key role in developing core business logic, ensuring that the application met complex business requirements and enhanced its functionality to align with evolving project needs.
-- Enhanced software performance by employing various optimization techniques, resulting in a 30% reduction in processing time for critical transactions, which translated to better user experiences and operational efficiency.
-- Utilized a diverse tech stack including reactive frameworks (Spring Webflux), Java Spring Boot, MySQL, Couchbase, Redis, Node.js, Express.js, Angular, Docker, Linux, and AWS, delivering comprehensive solutions across multiple technology layers.
+- Developed and optimized backend services for a Risk-based Authentication Engine, enhancing fraud detection and prevention, including identifying money laundering and BIN attacks, ensuring secure transaction processing.
+- Designed and implemented a microservices architecture to handle high-traffic loads, improving scalability, system reliability, and performance under increased user demand.
+- Built and maintained real-time data pipelines and implemented asynchronous processing of data using RabbitMQ and Apache Kafka, optimizing data throughput and reducing latency by 20%.
+- Enhanced overall software performance through optimization techniques, achieving a 30% reduction in processing time for critical transactions, leading to improved user experience and operational efficiency.
+- Utilized a diverse tech stack including Spring Webflux, Spring Boot, MySQL, Couchbase, Redis, Node.js, Docker, Linux, and AWS, delivering comprehensive solutions across multiple technology layers.
 
 ### Intern, Full Stack Developer
 **Freecharge**  
@@ -130,7 +152,7 @@ A C++ networking library optimized for high performance and low latency, designe
 - Employs advanced techniques like request pipelining, io_uring, kqueue-based event loops, and asynchronous I/O for efficient connection handling.
 - Integrates virtual thread task offloading to maximize CPU utilization and handle high-throughput workloads.
 - Designed for scalable, low-latency, and reliable large-scale server applications.
-- **Technologies**: Modern C++, Linux System Programming, Socket Programming, Advanced Computer Networking, High-Performance Computing, Asynchronous I/O
+- **Technologies**: Modern C++, Linux System Programming, Socket Programming, High-Performance Computing (via Multi-Threading & Multi-Core Optimization), Asynchronous I/O
 
 ### FlashPoint
 A high-performance in-memory key-value store focused on delivering low-latency responses for scalable data access.
@@ -141,7 +163,7 @@ A high-performance in-memory key-value store focused on delivering low-latency r
   - Thread Pool for Workloads: Maintains a thread pool to handle computationally intensive tasks.
   - Efficient Resource Management: Integrates timer management for handling idle connections and expiring data.
   - Pipelined Request/Response Protocol: Allows clients to send multiple requests without waiting for individual responses.
-- **Technologies**: C, C++, Data structures and Algorithms, Socket Programming, Advanced Computer Networking, Linux System Programming, High-Performance Computing
+- **Technologies**: C, C++, Data structures and Algorithms, Socket Programming, Linux System Programming, High-Performance Computing
 
 ### Math Evaluator
 - A mathematical expression evaluator tool that can parse and evaluate a given math expression.
@@ -152,21 +174,12 @@ A high-performance in-memory key-value store focused on delivering low-latency r
 - Social networking and chat web application inspired by Facebook, built with Node.js, EJS, and MongoDB using the MVC design pattern.
 - Backend handles authentication, session management, messaging, and multimedia sharing through RESTful APIs.
 - Includes features like image/video uploads, friend requests, and group sharing, optimized for smaller-scale operations.
-- **Technologies**: Node.js, MongoDB, RESTful APIs, MVC Pattern
+- **Technologies**: Node.js, MongoDB, RESTful APIs, EJS, MVC pattern
 
 ### Music Player
 - A music player website with user authentication, audio/video upload and download options, search filters, personalized playlist options, and song repetition mode.
-- **Technologies**: EJS templating engine, NodeJs, MongoDB, MySQL, MVC pattern
-
-## Achievements
-
-- Secured All India Rank 9127 (top 1%) out of 1.2 million students in India’s national engineering entrance exams JEE Mains and Advanced 2018.
-- Earned about 20 course completion certificates from diverse computer science learning platforms like Coursera, NPTEL, Udemy, and AlgoExpert.
-- Published articles on the online computer science learning platform, GeeksforGeeks.
-- Served as a student member in the NIT Warangal IEEE executive body (2020-21).
-
-[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-29b17a?style=flat-square&logo=geeksforgeeks)](https://www.geeksforgeeks.org/)
+- **Technologies**: EJS, NodeJs, MongoDB, MySQL
 
 ## Let's Connect!
 
-I'm always open to collaborating on innovative projects that push the boundaries of technology. Whether you're interested in AI/ML, software development, high-performance computing, or advanced computer networking, let's connect and create something amazing. Feel free to reach out!
+Always eager to team up on projects that explore new horizons and drive innovation. Let’s connect and create something extraordinary together. Reach out anytime!
