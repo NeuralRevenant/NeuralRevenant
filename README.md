@@ -98,15 +98,14 @@ Ranked **#9227** out of 1.2 million in JEE Mains (2018)
 ### Teaching Assistant & Research Assistant 
 **Purdue University Fort Wayne**  
 *Programming Language Design & Cosmological Simulations (Sept 2024 - Present)*
-- Assisting professors in delivering course material, grading assignments, and providing academic support to students. Enhancing the overall educational experience through various teaching-related tasks.
-- Contributing to research in high-performance computational cosmological simulations (cosmoSim) focused on **cosmological research** and modeling X-ray emissions from the intergalactic medium (WHIM).
-- Assisting in developing **Python code** to optimize X-ray emission models for large-scale cosmological simulations, which are anticipated to require significant improvements in data handling and **parallel processing** to handle datasets exceeding **300 TB**.
-- Collaborating on modifying simulation algorithms to partition computational workloads, enabling concurrent execution across multiple processors to minimize computational time. This interdisciplinary work aims to improve the accuracy and efficiency of WHIM observations using advanced computational resources.
+- Assisting professors in delivering course material, grading assignments, and providing academic support to students in **Programming Language Design**.
+- Contributing to cosmological research involving high-performance simulations and **Python** for X-ray emissions modeling, working with datasets exceeding **300 TB**.
+- Optimizing simulations with **parallel processing** to efficiently manage large-scale data in a **high-performance computing** environment. Enhancing simulation algorithms for improved data handling across multiple processors.
 
 ### Associate Software Engineer  
 **Wibmo (a PayU company)**  
 *Jul 2022 - Apr 2023*  
-- Developed and optimized backend services for a Risk-based Authentication Engine, enhancing fraud detection and prevention, including identifying money laundering and BIN attacks, ensuring secure transaction processing.
+- Developed and optimized backend services for a **Risk-based Authentication Engine**, enhancing fraud detection and prevention, including identifying money laundering and BIN attacks, ensuring secure transaction processing.
 - Designed and implemented a microservices architecture to handle high-traffic loads, improving scalability, system reliability, and performance under increased user demand.
 - Built and maintained real-time data pipelines and implemented asynchronous processing of data using RabbitMQ and Apache Kafka, optimizing data throughput and reducing latency by 20%.
 - Enhanced overall software performance through optimization techniques, achieving a 30% reduction in processing time for critical transactions, leading to improved user experience and operational efficiency.
@@ -115,7 +114,7 @@ Ranked **#9227** out of 1.2 million in JEE Mains (2018)
 ### Intern, Full Stack Developer  
 **Freecharge**  
 *Remote Internship (May 2021 - Jul 2021)*  
-- Revamped the existing microservices architecture, applying optimization techniques that reduced response times by 25% and enhanced overall system efficiency and scalability to better handle increasing user demands.
+- Revamped the existing **microservices architecture**, applying optimization techniques that reduced response times by 25% and enhanced overall system efficiency and scalability to better handle increasing user demands.
 - Spearheaded memory caching initiatives, significantly boosting application performance by reducing database load and improving response times by 35%.
 - Implemented load balancing strategies, optimizing resource allocation, and ensuring the system's reliability and availability under varying traffic conditions.
 
