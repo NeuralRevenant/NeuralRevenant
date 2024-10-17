@@ -100,7 +100,7 @@ Ranked **#9227** out of 1.2 million in JEE Mains (2018)
 *Programming Language Design & Cosmological Simulations (Sept 2024 - Present)*
 - Assisting professors in delivering course material, grading assignments, and providing academic support to students in **Programming Language Design**.
 - Contributing to high-performance computational cosmological simulations (CosmoSim) research using **Python**, handling datasets **>300TB**.
-- Implementing **parallel processing** to improve performance in High Performance Computing environments.
+- Implementing **parallel processing** techniques to improve performance in HPC environments.
 
 ### Associate Software Engineer  
 **Wibmo (a PayU company)**  
