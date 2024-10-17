@@ -20,7 +20,7 @@
 ## 🌟 About Me
 I'm a **passionate Software & AI/ML Engineer** with over a year of experience building **high-performance, scalable software solutions**, with a focus on **high-performance computing**. I specialize in **designing and developing low-latency backend systems** and **asynchronous architectures** using **C++, Python, and Java**, with a solid foundation in **operating systems**, **systems programming**, **multi-threaded programming**, **socket programming**, and **backend optimization**. 
 
-My skill set extends to **full-stack development**, **AI/ML**, **deep learning**, **Natural Language Processing**, **Computer Vision**, **distributed systems**, and **cloud computing**. Currently, as a **Research Assistant at Purdue**, I’m actively contributing to **high-performance computational simulations**, managing **large datasets**, and implementing **parallel processing techniques**. I thrive in collaborative environments and I’m always looking for new challenges to push the boundaries of technology. Let's connect and **create the future together!** 🚀
+My skill set extends to **full-stack development**, **AI/ML**, **deep learning**, **Natural Language Processing**, **Computer Vision**, **distributed systems**, and **cloud computing**. Currently, as a **Research Assistant at Purdue**, I’m actively contributing to **high-performance computational simulations research**, managing **huge datasets (>300 TB)**, and implementing **parallel processing techniques**. I thrive in collaborative environments and I’m always looking for new challenges to push the boundaries of technology. Let's connect and **create the future together!** 🚀
 
 ---
 
