@@ -1,6 +1,9 @@
 # Hi! I'm Kaushik Chaturvedula 🌍💻
 
 <div>
+  <a href="https://neuralrevenant.github.io/portfolio-website">
+    <img src="https://img.shields.io/badge/Portfolio-%23FF4136.svg?&style=for-the-badge&logo=google-earth&logoColor=white" alt="Portfolio"/>
+  </a>
   <a href="https://linkedin.com/in/kaushikchaturvedula">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -18,9 +21,9 @@
 ---
 
 ## 🌟 About Me
-I'm a **passionate Software & AI/ML Engineer** with over a year of experience building **high-performance, scalable software solutions**, with a focus on **high-performance computing**. I specialize in **designing and developing low-latency backend systems** and **asynchronous architectures** using **C++, Python, and Java**, with a solid foundation in **operating systems**, **systems programming**, **multi-threaded programming**, **socket programming**, and **backend optimization**. 
+I'm a passionate **Software Engineer** with a year of experience building high-performance and scalable software solutions, microservices and asynchronous architectures. I am proficient in **C++, Python, and Java**, with a solid foundation in **high-performance computing**, **distributed systems**, **full-stack development**, **operating systems**, **systems programming**, **concurrent programming**, **socket programming**, and **backend optimization**.
 
-My skill set extends to **full-stack development**, **AI/ML**, **deep learning**, **Natural Language Processing**, **Computer Vision**, **distributed systems**, and **cloud computing**. Currently, as a **Research Assistant at Purdue**, I’m actively contributing to **high-performance computational simulations research**, managing **huge datasets (>300 TB)**, and implementing **parallel processing techniques**. I thrive in collaborative environments and I’m always looking for new challenges to push the boundaries of technology. Let's connect and **create the future together!** 🚀
+My skill set extends to **AI/ML**, **deep learning**, **Natural Language Processing**, **Computer Vision**, **algorithms**, **data structures**, **database systems**, and **cloud computing**. Currently, as a **Research Assistant at Purdue**, I’m actively contributing to **high-performance computational simulations research**, managing **huge datasets (>300 TB)**, and implementing **parallel processing techniques**. I thrive in collaborative environments and I’m always looking for new challenges to push the boundaries of technology. Let's connect and **create the future together!** 🚀
 
 ---
 
@@ -45,6 +48,7 @@ My skill set extends to **full-stack development**, **AI/ML**, **deep learning**
 - Asynchronous Programming
 - GPU Programming (CUDA)
 - MPI & OpenMP
+- Posix Threads
 
 ### Programming Languages
 - C, C++, C#
@@ -129,6 +133,10 @@ Ranked **#9227** out of 1.2 million in JEE Mains (2018)
 
 ## 🚀 Personal Projects
 
+### Lexi-Phylax
+AI/ML hate speech classifier leveraging CNNs, advanced transformers (BERT), and FastText embeddings for precise NLP-based content filtering.
+- **Technologies**: Python, Pytorch, FastText, Scikit-learn, Seaborn, Matplotlib, Kaggle, and Transformers (Hugging Face)
+
 ### SwiftNet
 A C++ networking library optimized for high performance and low latency, designed to deliver rapid responses for scalable data access.
 - Employs advanced techniques like request pipelining, io_uring, kqueue-based event loops, and asynchronous I/O for efficient connection handling.
@@ -145,7 +153,7 @@ A high-performance in-memory key-value store focused on delivering low-latency r
   - Thread Pool for Workloads: Maintains a thread pool to handle computationally intensive tasks.
   - Efficient Resource Management: Integrates timer management for handling idle connections and expiring data.
   - Pipelined Request/Response Protocol: Allows clients to send multiple requests without waiting for individual responses.
-- **Technologies**: C, C++, Data structures and Algorithms, Socket Programming, Linux System Programming, High-Performance Computing
+- **Technologies**: C, C++, Data structures and Algorithms, Socket Programming, Linux System Programming, and High-Performance Computing
 
 ### Math Evaluator
 - A mathematical expression evaluator tool that can parse and evaluate a given math expression.
