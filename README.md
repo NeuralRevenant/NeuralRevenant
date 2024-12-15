@@ -66,7 +66,7 @@ My skill set extends to **AI/ML**, **deep learning**, **Natural Language Process
 - Git, Docker
 - Redis, Apache Kafka, RabbitMQ
 - JMeter, Postman, JDBC
-- Cloud: AWS, Azure, Heroku
+- Cloud: AWS, Azure, GCP, Heroku
 
 ### Databases
 - MySQL, MariaDB, PostgreSQL
