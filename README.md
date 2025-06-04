@@ -21,9 +21,10 @@
 ---
 
 ## 🌟 About Me
-I’m a **Software Engineer** with experience in **AI/ML, full-stack development, backend engineering, and high-performance computing**. My work spans **scalable and asynchronous event-driven architectures, cloud-native applications, and AI-powered solutions** with a strong focus on performance, reliability, and user impact.
 
-Passionate about **machine learning, deep learning, NLP, RAG, and software development**, I enjoy solving complex problems at scale. I build intelligent systems that leverage advanced search methods, embeddings, and real-time processing for domains like **medical AI, financial technology, social networking, recommendation systems, and other AI-driven applications across diverse industries**.
+I’m a Software Engineer with strong experience in AI/ML, full-stack development, backend engineering, and high-performance computing. My work spans scalable, event-driven architectures and cloud-native platforms, combining robust backend engineering with deep AI capabilities. I specialize in generative AI, NLP, computer vision, transformer models (including vision transformers), LLMs, LLM fine-tuning, agentic AI workflows & AI agents, agentic RAG pipelines, deep learning, ensemble learning, and large-scale inference systems. I enjoy solving complex problems using embeddings, hybrid search, semantic retrieval, and dynamic query planning, building intelligent systems for healthcare, finance, logistics, recommendation platforms, and more.
+
+In addition to strong Python expertise, I have hands-on experience with Java (Spring Boot), C++, and TypeScript/JavaScript (Node.js, Express.js, Next.js, React). I’ve designed and deployed production-grade microservices, authentication engines, and high-throughput pipelines using Kafka, RabbitMQ, Redis, PostgreSQL, OpenSearch, and AWS/GCP infrastructure, always with a focus on performance, security, and reliability.
 
 ---
 
@@ -48,10 +49,10 @@ C, C++, Python, Java, JavaScript/TypeScript, C#, SQL, Docker, Git, Redis, Apache
 
 ## 🎓 Education
 
-### Master of Science in Computer Science  
-**Purdue University**  
-📅 *January 2024 – Expected May 2025*  
-📈 **GPA:** 4.0/4.0  
+### Master of Science in Computer Science
+**Purdue University**
+📅 *January 2024 – May 2025*
+📈 **GPA:** 4.0/4.0
 
 ---
 
@@ -62,19 +63,6 @@ C, C++, Python, Java, JavaScript/TypeScript, C#, SQL, Docker, Git, Redis, Apache
 Ranked **#9227** out of 1.2 million in JEE Mains (2018)
 
 ---
-
-## 🚀 Personal Projects  
-
-### **Medical Chatbot**  
-A frontend interface for AI-powered RAG-based semantic query engine integrating **retrieval-augmented generation (RAG)** and **semantic search** to deliver real-time, contextually accurate responses for medical queries.  
-
-### **Semantic Query Engine**  
-A **high-speed NLP and RAG-powered semantic query system** for efficiently retrieving information from medical documents and EHR data using **transformers and LLMs, embeddings, hybrid search techniques, OpenSearch, and Redis**.  
-
-### **Lexi-Phylax**  
-An advanced **hate speech classification engine** leveraging **BERT-based transformer models** from **HuggingFace**, currently being expanded into a **custom-built 400M parameter NLP model** for enhanced toxicity detection.  
-### **SwiftNet**  
-A **low-latency networking library** written in C++, using **io_uring, coroutines, and asynchronous event loops** for high-speed high-throughput data transmission.  
 
 ## 🌐 Let's Connect
 
