@@ -22,28 +22,61 @@
 
 ## 🌟 About Me
 
-I’m a Software Engineer with strong experience in AI/ML, full-stack development, backend engineering, and high-performance computing. My work spans scalable, event-driven architectures and cloud-native platforms, combining robust backend engineering with deep AI capabilities. I specialize in generative AI, NLP, computer vision, transformer models (including vision transformers), LLMs & LLM fine-tuning + pre-training, AI agents, complex agentic AI workflows & frameworks using LLM-driven agents for reasoning, planning, and function orchestration, agentic RAG pipelines, deep learning, ensemble learning, and large-scale inference systems. I’ve developed multi-agent systems with dynamic memory, recursive querying, and tool usage, driving advanced automation across operational pipelines, and I enjoy solving complex problems, building intelligent systems for healthcare, finance, logistics, recommendation platforms, and more.  
+I'm a computer scientist & software engineer driven by a passion for solving complex problems at the intersection of Machine Learning, Computer Vision, Natural Language Processing, Backend Engineering, and Full Stack Development. My journey spans applied research in statistical machine learning, RAG pipelines, causal inference, and visual recognition using cutting-edge techniques like GANs, VAEs, Stable Diffusion, CNNs, and vision-language models (VLMs).
 
-In addition to strong Python expertise, I have hands-on experience with Java (Spring Boot), C++, and TypeScript/JavaScript (Node.js, Express.js, Next.js, React). I’ve designed and deployed production-grade microservices, authentication engines, and high-throughput pipelines using Kafka, RabbitMQ, Redis, PostgreSQL, OpenSearch, and AWS/GCP infrastructure, always with a focus on performance, security, and reliability.
+I’ve engineered systems that tightly integrate prompt engineering, synthetic data generation, and evaluation pipelines, using tools like PyTorch, TensorFlow, Huggingface, and Ray—to build intelligent, adaptive solutions that go beyond traditional pipelines.
+
+As a polymath, I’m deeply curious about a wide spectrum of disciplines—from computer science and AI to robotics, hardware engineering, mechanical engineering, biology, philosophy, geopolitics, and emerging sciences. I thrive on learning, exploring new paradigms, and crafting innovative solutions that merge creativity with technical precision.
+
+Whether I’m building agentic AI systems, reasoning engines, or simply tinkering with novel ideas, my goal is always the same: to enhance how we live, think, and connect through intelligent technology.
 
 ---
 
 ## 🛠 Skills
 
-### AI and Machine Learning  
-Generative AI, Natural Language Processing, Agentic Retrieval-Augmented Generation (Agentic RAG), Computer Vision (CNNs, Vision Transformers, etc.), Deep Learning, HF Transformers, PyTorch, TensorFlow, Agentic Graphs/Workflows & AI agents
+### 🧠 Artificial Intelligence & Machine Learning
 
-### Backend & Full-Stack Development  
-Spring Boot, FastAPI, Node.js, Express.js, React, Next.js, Django, REST & GraphQL APIs
+* **Core Areas/Strengths**: Deep Learning, Classical Machine Learning, Generative AI, Causal Inference, Reinforcement Learning (RLHF), Meta-Learning, Self-Supervised Learning, Semi-Supervised Learning, Curriculum Learning, Natural Language Processing, Agentic AI, Model-Context Protocols (MCP), Chain-of-Thought Reasoning, Self-Refining Agents, Model Evaluation & Intepretability
+* **Retrieval & RAG Systems**: Retrieval-Augmented Generation (RAG), Vector Databases (OpenSearch/ElasticSearch, FAISS, Pinecone), Semantic Search, Temporal/Context-Aware Retrieval, LangChain-based pipelines
+* **Computer Vision**: CNNs (AlexNet, VGG, Inception, ResNet, DenseNet), Vision Transformers (ViT, CLIP), Image Captioning, Visual Question Answering (VQA), GANs, VAEs, Stable Diffusion
+* **NLP**: Named Entity Recognition, Text Classification, Question Answering, Semantic Parsing, Machine Translation, Text Summarization, Document Understanding, Intent Classification
+* **Frameworks/Tools**: PyTorch, TensorFlow, Hugging Face Transformers, Ray, LangChain, OpenAI APIs, Ollama, Weights & Biases
 
-### High-Performance Computing & Systems Programming  
-Parallel Programming, Multi-threading, Virtual Threads, Asynchronous I/O, Linux System Programming, Socket Programming, Remote Procedure Calls, Network Architectures
+---
 
-### Databases & Cloud Technologies  
-PostgreSQL, MySQL, MariaDB, MongoDB, Couchbase, Firebase, OpenSearch, ElasticSearch, AWS, GCP, Azure  
+### 💻 Software Engineering & Full-Stack Development
 
-### Languages & Development Tools  
-C, C++, Python, Java, JavaScript/TypeScript, C#, SQL, Docker, Git, Redis, Apache Kafka, RabbitMQ
+* **Languages**: Python, Java, C, C++, C#, JavaScript/TypeScript, SQL
+* **Frameworks & Tools**: FastAPI, Flask, Django, Spring Boot, Node.js, Express.js, Next.js, React.js, Angular, TailwindCSS
+* **Testing**: Cypress, PyTest, JUnit, Postman, Selenium, Mocha
+* **Architectures**: Scalable Microservices, Modular Monoliths, RESTful APIs, Serverless Functions, Event-Driven Systems
+
+---
+
+### 🧱 Systems Programming & Backend Optimization
+
+* **Concurrency & Performance**: Multithreading, Parallel Processing, Async/Await, Coroutines, Virtual Threads, io\_uring, kqueue, High-Throughput Networking (SwiftNet)
+* **Protocols & Networking**: TCP/IP, WebSockets, HTTP/2, gRPC, Socket Programming
+* **Backend Efficiency**: Caching (Redis, CDN), Load Balancing, Rate Limiting, Lazy Evaluation, Profiling & Debugging (perf, valgrind, cProfile)
+
+---
+
+### ☁️ Cloud Infrastructure & DevOps
+
+* **Cloud Platforms**: AWS (EC2, S3, Lambda, SageMaker), Azure (OpenAI, Functions), GCP (Vertex AI, BigQuery)
+* **CI/CD & Containers**: Docker, GitHub Actions, GitLab CI, Jenkins
+* **Orchestration & Monitoring**: Kubernetes (basic), Prometheus, Grafana, ELK Stack
+* **Messaging & Queues**: Apache Kafka, RabbitMQ, Celery
+* **Versioning & Project Tools**: Git, GitHub, JIRA, Trello
+
+---
+
+### 🗄️ Databases & Storage
+
+* **Relational**: PostgreSQL, MySQL, MariaDB
+* **NoSQL & Document Stores**: MongoDB, Couchbase (also key-val), Redis
+* **Vector Stores**: FAISS, OpenSearch, Pinecone
+* **File Systems & Indexing**: Lucene, ElasticSearch Core, S3-compatible object stores
 
 ---
 
@@ -54,7 +87,7 @@ C, C++, Python, Java, JavaScript/TypeScript, C#, SQL, Docker, Git, Redis, Apache
 📅 *January 2024 – May 2025* (🏆 Completed M.S. in just 3 semesters with a perfect 4.0 GPA topping several of the courses)  
 📈 **GPA:** 4.0/4.0  
 
-🧠 **Coursework**:  
+🧠 **Coursework (all A-grade)**:  
 - Natural Language Processing
 - Operating Systems
 - High-Performance Computing
