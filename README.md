@@ -24,9 +24,9 @@
 
 I'm a computer scientist & software engineer driven by a passion for solving complex problems at the intersection of Machine Learning, Computer Vision, Natural Language Processing, Backend Engineering, and Full Stack Development. My journey spans applied research in statistical machine learning, RAG pipelines, causal inference, and visual recognition using cutting-edge techniques like GANs, VAEs, Stable Diffusion, CNNs, and vision-language models (VLMs).
 
-I’ve engineered systems that tightly integrate prompt engineering, synthetic data generation, and evaluation pipelines, using tools like PyTorch, TensorFlow, Huggingface, and Ray—to build intelligent, adaptive solutions that go beyond traditional pipelines.
+I’ve engineered systems that tightly integrate prompt engineering, synthetic data generation, and evaluation pipelines, using tools like PyTorch, TensorFlow, Huggingface, and Ray, to build intelligent, adaptive solutions that go beyond traditional pipelines.
 
-As a polymath, I’m deeply curious about a wide spectrum of disciplines—from computer science and AI to robotics, hardware engineering, mechanical engineering, biology, philosophy, geopolitics, and emerging sciences. I thrive on learning, exploring new paradigms, and crafting innovative solutions that merge creativity with technical precision.
+As a polymath, I’m deeply curious about a wide spectrum of disciplines, from computer science and AI to robotics, hardware engineering, mechanical engineering, biology, philosophy, and emerging sciences. I thrive on learning, exploring new paradigms, and crafting innovative solutions that merge creativity with technical precision.
 
 Whether I’m building agentic AI systems, reasoning engines, or simply tinkering with novel ideas, my goal is always the same: to enhance how we live, think, and connect through intelligent technology.
 
