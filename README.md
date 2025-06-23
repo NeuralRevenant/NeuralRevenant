@@ -22,7 +22,7 @@
 
 ## 🌟 About Me
 
-I'm a computer scientist & software engineer driven by a passion for solving complex problems at the intersection of Machine Learning, Computer Vision, Natural Language Processing, Backend Engineering, and Full Stack Development. My journey spans applied research in statistical machine learning, RAG pipelines, causal inference, and visual recognition using cutting-edge techniques like GANs, VAEs, Stable Diffusion, CNNs, and vision-language models (VLMs).
+I'm a computer scientist & software engineer driven by a passion for solving complex problems at the intersection of Machine Learning, Computer Vision, Natural Language Processing, Backend Engineering, and Full Stack Development. My journey spans applied research in statistical machine learning, RAG pipelines, causal inference, and visual recognition using cutting-edge techniques like GANs, VAEs, Stable Diffusion, CNNs, vision and vision-language models (VLMs).
 
 I’ve engineered systems that tightly integrate prompt engineering, synthetic data generation, and evaluation pipelines, using tools like PyTorch, TensorFlow, Huggingface, and Ray, to build intelligent, adaptive solutions that go beyond traditional pipelines.
 
