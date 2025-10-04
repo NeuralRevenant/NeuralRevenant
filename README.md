@@ -36,18 +36,18 @@ Whether I’m building high-performance low-latency software, agentic AI systems
 
 ### 🧠 Artificial Intelligence & Machine Learning
 
-* **Core Areas/Strengths**: Deep Learning, Classical Machine Learning, Generative AI, Causal Inference, Reinforcement Learning (RLHF), Meta-Learning, Self-Supervised Learning, Semi-Supervised Learning, Curriculum Learning, Natural Language Processing, Agentic AI, Model-Context Protocols (MCP), Chain-of-Thought Reasoning, Self-Refining Agents, Model Evaluation & Intepretability
-* **Retrieval & RAG Systems**: Retrieval-Augmented Generation (RAG), Vector Databases (OpenSearch/ElasticSearch, FAISS, Pinecone), Semantic Search, Temporal/Context-Aware Retrieval, LangChain-based pipelines
+* **Core Areas/Strengths**: Deep Learning, Machine Learning, Generative AI, Causal Inference, Reinforcement Learning (MDP, PPO, RLHF, etc.), Natural Language Processing, Computer Vision, Retrieval Augmented Generation (RAG), Agentic AI, Model-Context Protocols (MCP), Prompt Engineering, Model Design, Development, Evaluation & Intepretability
+* **Retrieval & RAG Systems**: Vector Databases (OpenSearch/ElasticSearch, FAISS, Pinecone), Semantic Search, Temporal/Context-Aware Retrieval, LangChain-based pipelines
 * **Computer Vision**: CNNs (AlexNet, VGG, Inception, ResNet, DenseNet), Vision & Vision Language Models (like ViT, CLIP), Image Captioning, Visual Question Answering (VQA), GANs, VAEs, Stable Diffusion
 * **NLP**: Named Entity Recognition, Text Classification, Question Answering, Semantic Parsing, Machine Translation, Text Summarization, Document Understanding, Intent Classification
-* **Frameworks/Tools**: PyTorch, TensorFlow, Hugging Face Transformers, Ray, LangChain, OpenAI APIs, Ollama, Weights & Biases
+* **Frameworks/Tools**: PyTorch, TensorFlow, Hugging Face Transformers, Ray, LangChain, OpenAI APIs, Ollama, Weights & Biases, scikit-learn, NumPy, pandas, Matplotlib, ONNX
 
 ---
 
 ### 💻 Software Engineering & Full-Stack Development
 
 * **Languages**: Python, Java, C, C++, C#, JavaScript/TypeScript, SQL
-* **Frameworks & Tools**: FastAPI, Flask, Django, Spring Boot, Node.js, Express.js, Next.js, React.js, Angular, TailwindCSS
+* **Frameworks & Tools**: FastAPI, Flask, Django, Spring Boot, Node.js, Fastify, Express.js, Next.js, React.js, Angular, TailwindCSS, Chart.js
 * **Testing**: Cypress, PyTest, JUnit, Postman, Selenium, Mocha
 * **Architectures**: Scalable Microservices, Modular Monoliths, RESTful APIs, Serverless Functions, Event-Driven Systems
 
@@ -65,7 +65,7 @@ Whether I’m building high-performance low-latency software, agentic AI systems
 
 * **Cloud Platforms**: AWS (EC2, S3, Lambda, SageMaker), Azure (OpenAI, Functions), GCP (Vertex AI, BigQuery)
 * **CI/CD & Containers**: Docker, GitHub Actions, GitLab CI, Jenkins
-* **Orchestration & Monitoring**: Kubernetes (basic), Prometheus, Grafana, ELK Stack
+* **Orchestration & Monitoring**: Kubernetes, Prometheus, Grafana, ELK Stack
 * **Messaging & Queues**: Apache Kafka, RabbitMQ, Celery
 * **Versioning & Project Tools**: Git, GitHub, JIRA, Trello
 
