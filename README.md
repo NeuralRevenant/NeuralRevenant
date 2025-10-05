@@ -36,7 +36,7 @@ Whether I’m building high-performance low-latency software, agentic AI systems
 
 ### 🧠 Artificial Intelligence & Machine Learning
 
-* **Core Areas/Strengths**: Deep Learning, Machine Learning, Generative AI, Causal Inference, Reinforcement Learning (MDP, PPO, RLHF, etc.), Natural Language Processing, Computer Vision, Retrieval Augmented Generation (RAG), Agentic AI, Model-Context Protocols (MCP), Prompt Engineering, Model Design, Development, Evaluation & Intepretability
+* **Core Areas/Strengths**: Deep Learning, Machine Learning, Generative AI, Causal Inference, Reinforcement Learning (MDP, PPO, RLHF, etc.), Deep Reinforcement Learning, Natural Language Processing, Computer Vision, Retrieval Augmented Generation (RAG), Recommender Systems, Agentic AI, Model-Context Protocols (MCP), Prompt Engineering, Model Design, Development, Evaluation & Intepretability
 * **Retrieval & RAG Systems**: Vector Databases (OpenSearch/ElasticSearch, FAISS, Pinecone), Semantic Search, Temporal/Context-Aware Retrieval, LangChain-based pipelines
 * **Computer Vision**: CNNs (AlexNet, VGG, Inception, ResNet, DenseNet), Vision & Vision Language Models (like ViT, CLIP), Image Captioning, Visual Question Answering (VQA), GANs, VAEs, Stable Diffusion
 * **NLP**: Named Entity Recognition, Text Classification, Question Answering, Semantic Parsing, Machine Translation, Text Summarization, Document Understanding, Intent Classification
