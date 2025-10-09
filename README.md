@@ -22,13 +22,13 @@
 
 ## 🌟 About Me
 
-I'm a computer scientist & software engineer driven by a passion for solving complex problems at the intersection of Machine Learning, Computer Vision, Natural Language Processing, Backend Engineering, and Full Stack Development. I'm actively exploring and developing solutions in generative AI, deep learning, classical machine learning, causal inference, retrieval-augmented generation (RAG), and visual recognition using cutting-edge techniques like GANs, VAEs, Stable Diffusion, CNNs, vision models like ViT, and vision-language models (VLMs).
+I’m a Computer Scientist and Software Engineer passionate about building intelligent, high-performance systems that unite advanced AI with solid engineering principles. My work spans machine learning, deep learning, reinforcement learning, computer vision, NLP, generative AI, backend engineering, and full-stack development, with a focus on creating scalable, adaptive, and production-ready solutions.
 
-I’ve engineered systems that tightly integrate prompt engineering, synthetic data generation, and evaluation pipelines, using tools like PyTorch, TensorFlow, Huggingface, and Ray, to build intelligent, adaptive solutions that go beyond traditional pipelines. I’ve also built custom models from scratch for specific project use cases and conducted model evaluation in research-focused contexts.
+I’ve developed AI-driven applications using frameworks like PyTorch, TensorFlow, Hugging Face, and LangChain, and engineered cloud-native backends with FastAPI, Fastify, React/Next.js, PostgreSQL, and OpenSearch to deliver reliable, efficient, and intelligent software systems.
 
 As a polymath, I’m deeply curious about a wide spectrum of disciplines, from computer science and AI to robotics, hardware engineering, mechanical engineering, biology, philosophy, and emerging sciences. I thrive on learning, exploring new paradigms, and crafting innovative solutions that merge creativity with technical precision.
 
-Whether I’m building high-performance low-latency software, agentic AI systems, reasoning engines, or simply tinkering with novel ideas, my goal is always the same: to enhance how we live, think, and connect through intelligent technology.
+Whether I’m building high-performance low-latency software, agentic AI systems, recommender systems, reasoning engines, or simply tinkering with novel ideas, my goal is always the same: to enhance how we live, think, and connect through intelligent technology.
 
 ---
 
@@ -36,7 +36,7 @@ Whether I’m building high-performance low-latency software, agentic AI systems
 
 ### 🧠 Artificial Intelligence & Machine Learning
 
-* **Core Areas/Strengths**: Deep Learning, Machine Learning, Generative AI, Causal Inference, Reinforcement Learning (MDP, PPO, RLHF, etc.), Deep Reinforcement Learning, Natural Language Processing, Computer Vision, Retrieval Augmented Generation (RAG), Recommender Systems, Agentic AI, Model-Context Protocols (MCP), Prompt Engineering, Transfer Learning, Model Design, Development, Evaluation & Intepretability
+* **Core Areas/Strengths**: Deep Learning, Machine Learning, Generative AI, Causal Inference, Reinforcement Learning & Deep Reinforcement Learning (MDP, PPO, RLHF, etc.), Natural Language Processing, Computer Vision, Retrieval Augmented Generation (RAG), Recommender Systems, Agentic AI, Model-Context Protocols (MCP), Prompt Engineering, Transfer Learning, Model Design, Development, Evaluation & Intepretability
 * **Retrieval & RAG Systems**: Vector Databases (OpenSearch/ElasticSearch, FAISS, Pinecone), Semantic Search, Temporal/Context-Aware Retrieval, LangChain-based pipelines
 * **Computer Vision**: CNNs (AlexNet, VGG, Inception, ResNet, DenseNet), Vision & Vision Language Models (like ViT, CLIP), Image Captioning, Visual Question Answering (VQA), GANs, VAEs, Stable Diffusion
 * **NLP**: Named Entity Recognition, Text Classification, Question Answering, Semantic Parsing, Machine Translation, Text Summarization, Document Understanding, Intent Classification
